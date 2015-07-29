@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">My University</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="drawer_open">Drawer Abierto</string>
+    <string name="drawer_close">Drawer Cerrado</string>
+
+    <!-- Modulo Calculadora Universitaria -->
+    <string name="Calcular_Notas">Calculadora Universitaria</string>
+    <string name="title_activity_calculadora_notas">Controla fácilmente tu semestre</string>
+    <string name="text_calculadora_notas">Quieres controlar tus notas? Conocer cuanto te falta para ganar la materia? Como va tu promedio? </string>
+    <string name="text1_calculadora_notas">En calculadora universitaria, encuentras todo lo necesario para poder gestionar tus materias, este modulo te permite agregar las materias que ves en el semestre, adicionar sus respectivas notas, calcular la nota que necesitas para pasar la materia, ademas de proporcionarte el valor del promedio que llevas en el semestre.</string>
+
+    <!-- Modulo Acerca De -->
+    <string name="acerca_menu">Acerca De</string>
+    <string name="title_activity_acerca_de">Acerca De</string>
+    <string name="acerca">My University es una aplicacion desarrollada por VAW APPS Version 1.0 </string>
+</resources>
